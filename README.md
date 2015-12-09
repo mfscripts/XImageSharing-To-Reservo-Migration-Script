@@ -2,7 +2,7 @@
 
 * Created By: Adam Wilson - Reservo.co
 * Website: https://reservo.co
-* Release Date: 0th December 2015
+* Release Date: 9th December 2015
 * Version: 1.0
 
 #USAGE:
